@@ -1,4 +1,5 @@
 function MainLayout(){
+    return(
     <div>
         <div>Header</div>
         <div>Upper Main Menu</div>
@@ -6,5 +7,6 @@ function MainLayout(){
         <div>Content</div>
         <div>Bottom</div>
     </div>
+    )
 }
 export default MainLayout
